@@ -1,10 +1,13 @@
-# Warm Waves (live-coded mix source code)
+# Warm Waves (live-coded mix source)
 
 This repo contains the source code and samples for a performance 
 of "Warm Waves". The piece was performed using Tidal and the
 Haskell programming language. 
 
 You can learn about using Tidal at http://tidal.lurk.org.
+
+This code uses the experimental tidal-midi module, found in
+the `portmidi` branch of https://github.com/lennart/tidal-midi
 
 ## Video of performance
 
